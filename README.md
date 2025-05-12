@@ -2,7 +2,6 @@
 
 ### ✅ `README.md`
 
-```
 
 # 🏠 House Price Prediction Web App
 
