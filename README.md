@@ -2,7 +2,8 @@
 
 ### ✅ `README.md`
 
-```markdown
+```
+
 # 🏠 House Price Prediction Web App
 
 This is a simple yet powerful machine learning web application that predicts house prices based on user input features using a trained Random Forest model. Built with **Flask**, **HTML/CSS**, and **scikit-learn**, this project is a great demonstration of end-to-end data science and deployment.
